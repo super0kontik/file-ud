@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>depositfiles</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1>привет</h1>
+    <h2>Загрузить файлы</h2>
+    <div class="upload">
+
+      <form action="/add"  enctype="multipart/form-data" method="POST">
+        Select images: <input type="file" name="myFile" multiple>
+        <input type="submit" value="Upload your files"/>
+      </form>
+
+    </div>
+    <br>
+    <br>
+    <div class="download">
+      <h2> Имеющиеся файлы: </h2>
+      <% for ( pic of pics){ %>
+     <br> <a href="/download/<%=pic.dataValues.picId%>"><%=pic.dataValues.picId%></a> <br><br>
+      <%}%>
+    </div>
+  </body>
+</html>

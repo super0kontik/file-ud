@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "calcium-doodad-230200",
+  "private_key_id": "3a95aa1cb3ff04405826b17e2d4471fb95bb6297",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkK2bVgs3DtImn\n23OlPVBO0Qh2ClTLr6wkrTbVE0rEl4pnbUbF3UEZOLj3usqKewnU1qZXL7gceikH\nTw/Qza4sXneBrAciNVyKk3mCOEAzN6YGu7PmeoRF3rRK7pH1+6gZaDW+Ujlnkp+t\nxNhrbTf4ijumA/5uz8hKqUPAzuOIM05oInZeUpDDQ7najDb1/pnjXtpipSqzmnfE\nfvtG4i+pZnqSW0Gf7X/ZaCf6+EE+XacpSypQcfqUJ3AZytMQdtouAzmqWd56DdsK\nUpB7Ld6YzTMfJBAvTm6G98jssGWUzT1AwNH0wgPF8gwoiYu6OM9PvKzo9DPrDsl2\nLq2OQwGtAgMBAAECggEACX/ibjHotq2cdoxWC4Z5/mmNmAj+gZ/Lcf7c6KT6Y1hS\nf6wc14e3Q96ao2kZXbyDY9+81dgyyuENvTjHtUElljcsKqJ58jKMxY8FjbG0E1Kh\nxot3fDt0KnfZzmkyJH34qumzDG2FGVdsanl0vXifL8BN9cwO3bojwKA9RaujEmcv\nvKLKfLxpPpl8x4pfgmMFnYxgiCyDN5oCQiKlYYDSgecKqiAy0DdW4GLnIBVDc8y2\nVH40LseDnTtPuzkWt4j7PMMptOjyR99sYHLOsQsJxMRqe/QrZeslteUSynVPm3xX\nkPPWYlHusa//qPjcHplV4QAFuDk3PgZ/AKtP/FedSQKBgQDmJ3TdwmlRONknmS60\nP3EIunHoPpaJz5TDQ7ucZYJdcg7thTMvsv0ZrTnJ4toE4agMF7EgsHmfnFYxruxF\nlalxqAR3SUEIRJWfnVFvbX1BgeqCWFBz91RsQDJeyD3s6nB0ub2QS+UnWMSUhcoK\n7SU3AXy6pKwYyERpaSdx15JpyQKBgQC2mv/YEBzkRY+w4mQJ1788B6mWE3KYcdqt\n7aPcbn+74+axcVhGAyNkylQ82TFsCLh/7zAtGbiRu45qT5vpS+fvygf52PXsWKBl\n9ppovPiJhph7/uWcUGCCGK3XqzurOXHtFDVOcP84fyesDmKbyhep5vA5RDxC0C5D\n9QrVmafKxQKBgCS3UK578D8z2Xi2uDurD0Y8MCXDrlJH2kyYRpq5muV7Z6Q+pp7K\naBQrjVeGqA81TJC5StmTLaPn1dxRMoIbUQ+/pQ6+kfBWuKPg/ffPuLa1mgq3OgZ2\nA3LNfvud6DseX1hPtU0KvoDbaWjkOwopMNGonBROZuIBOOC0FMXVhRb5AoGAcLpb\nOv0neNxgimgYLeNckSiBzr4OvoF66GiOAeTNQia9IcnBHueNEAm/2xiR5Am2LHRy\nn0UDpiPNFWAz9eAAPQ3RwrHnj5Je4tNMG2CdZfkLZXDEOq18BpRJrZxt55Q8+ojB\nJ72mMTB+Qz9WLKqj1SVWI2Q2d2ChTx6VI6wJ46kCgYEAzBmowLKKtrtOs2x5fzeI\n8Y2d2BA+/RhF5v3FXifOcg0gJfM9+x36CtxewMvi0Kz1RBXgD4aPZJBgUG4ew/MA\n+4gpKZ/cwME17yUDMB4zdfGizFz5UyefbRM0fAf74TvLBXBixgpvbgeZr8Dydbe/\ns2cZchnGo6GTXuf9A1ifyME=\n-----END PRIVATE KEY-----\n",
+  "client_email": "god-351@calcium-doodad-230200.iam.gserviceaccount.com",
+  "client_id": "113924102032831171577",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/god-351%40calcium-doodad-230200.iam.gserviceaccount.com"
+}
